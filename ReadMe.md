@@ -22,8 +22,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/url-shortening-server.git
-cd url-shortening-server
+git clone https://github.com/mylibrari/url-shortening-service.git
+cd url-shortening-service
 ```
 
 2. **Install dependencies**
